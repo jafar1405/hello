@@ -23,7 +23,7 @@ function App() {
       <button onClick={handleClick}>Click me</button>
       {/* <div>here: {showValue}</div> */}
       {/* properties to be called as "props" */}
-      <Output value={showValue} here="sff:" />
+      <Output value={showValue} here="here td sdf:" />
     </div>
   );
 }
